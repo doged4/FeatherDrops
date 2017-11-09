@@ -1,4 +1,4 @@
-public class GameObject {
+public abstract class GameObject {
   float x, y;
   float xSpeed, ySpeed;
   float size;
